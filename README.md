@@ -1,0 +1,2 @@
+# variables
+basic of js
